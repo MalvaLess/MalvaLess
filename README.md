@@ -35,7 +35,7 @@ I build things end-to-end — from structured relational databases and secure RE
 
 ### 📫 Connect with Me
 
-*   **LinkedIn:** [https://github.com/MalvaLess](https://github.com/MalvaLess)
+*   **GitHub:** [https://github.com/MalvaLess](https://github.com/MalvaLess)
 *   **Email:** contact@malvaless.com
 *   **Languages:** Spanish (Native) | Portuguese (Native) | English (B2 - First)
 
