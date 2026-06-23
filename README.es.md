@@ -35,6 +35,6 @@ Construyo soluciones de extremo a extremo: desde bases de datos relacionales est
 
 ### 📫 Conéctate conmigo
 
-*   **LinkedIn:** [https://github.com/MalvaLess](https://github.com/MalvaLess)
+*   **GitHub:** [https://github.com/MalvaLess](https://github.com/MalvaLess)
 *   **Correo electrónico:** contact@malvaless.com
 *   **Idiomas:** Español (Nativo) | Portugués (Nativo) | Inglés (B2 - First)
